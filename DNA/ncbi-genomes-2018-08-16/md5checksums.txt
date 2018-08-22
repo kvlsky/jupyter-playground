@@ -1,0 +1,1 @@
+c65296261c2c40caaf6d601d0fbb11eb  GCF_000001405.38_GRCh38.p12_protein.faa.gz

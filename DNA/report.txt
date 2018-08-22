@@ -1,0 +1,11 @@
+DocsumUids: "1493941"
+ReleaseType: RefSeq
+FileType: protein.faa.gz
+Flat: true
+
+Search results count: 1
+Entries to download: 1
+
+protein.faa.gz files in archive: 1
+Total size (bytes): 26349952
+Total time: 2.4 seconds
